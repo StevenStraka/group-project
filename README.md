@@ -5,4 +5,4 @@
 
 <!-- Add yourself here on your Git lesson: - Your Name (role) -->
 
-- (your squad will add themselves here)
+- Steve Straka - Instructor
